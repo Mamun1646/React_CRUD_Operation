@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import { UserContext } from "../UserContext/UserContext";
 
 const Home = () => {
-  const [users, setUser] = useContext(UserContext);
+ 
 
   return (
     <div>
